@@ -3,7 +3,7 @@ description: "A Jekyll Blog Theme For Hackers"
 author:
   name: "SomeHacker"
   email: "someone@somewebsite.somedomain"
-  url: "https://wjs4199.github.io/"
+  url: "https://wjs4199.github.io"
 
 baseurl: /
 
